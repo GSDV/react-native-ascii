@@ -9,12 +9,8 @@ import { GameContext } from '@/src/context';
 import { EntityManager } from '@/src/entity';
 import { Frame } from '@/src/frames';
 
+import { DEFAULT_FONTS, DEFAULT_FONT } from '@/src/assets/fonts';
 
-
-type Pixel = {
-    char: string;
-    color: string;
-};
 
 
 export interface GridProps {
@@ -25,6 +21,9 @@ export interface GridProps {
     height: number;
 
     heightMultiplier?: number;
+
+    fonts?: Record<string, any>;
+    selectedFont?: string;
 }
 
 export default function Grid({
@@ -32,19 +31,21 @@ export default function Grid({
     frameRate,
     width: gridWeight,
     height: gridHeight,
-    heightMultiplier = 1
+    heightMultiplier = 1,
+    fonts,
+    selectedFont = DEFAULT_FONT
 }: GridProps) {
     const entityManagerRef = useRef<EntityManager>(entityManager);
     const [, forceUpdate] = useState({});
     const [fontSize, setFontSize] = useState(10);
     const [canvasSize, setCanvasSize] = useState({ width: 800, height: 470 });
 
-    const customFontMgr = useFonts({
-        // CourierPrime: [require('../../assets/fonts/CourierPrime-Regular.ttf')]
-        CourierPrime: [require('../../assets/fonts/DejaVuSansMono.ttf')]
-    });
-    
-    // Character dimensions for precise positioning.
+    const mergedFonts = {
+        ...DEFAULT_FONTS,
+        ...(fonts ?? {}),
+    };
+    const fontMgr = useFonts(mergedFonts);
+
     const charHeight = fontSize;
 
     const handleLayout = (event: any) => {
@@ -95,11 +96,10 @@ export default function Grid({
 
     // Build paragraph from grid using Paragraph API.
     const paragraph = (() => {
-        if (!customFontMgr) return null;
+        if (!fontMgr) return null;
 
-        const s = Date.now();
         const grid = buildGrid();
-        const builder = Skia.ParagraphBuilder.Make({}, customFontMgr);
+        const builder = Skia.ParagraphBuilder.Make({}, fontMgr);
 
         // Build the text line by line with color styling
         for (let row = 0; row < gridHeight; row++) {
@@ -113,7 +113,7 @@ export default function Grid({
                 if (cell.fgC !== currentColor && textBuffer.length > 0) {
                     builder.pushStyle({
                         color: Skia.Color(currentColor),
-                        fontFamilies: ['CourierPrime'],
+                        fontFamilies: [selectedFont],
                         fontSize: fontSize,
                         heightMultiplier
                     });
@@ -131,7 +131,7 @@ export default function Grid({
             if (textBuffer.length > 0) {
                 builder.pushStyle({
                     color: Skia.Color(currentColor),
-                    fontFamilies: ['CourierPrime'],
+                    fontFamilies: [selectedFont],
                     fontSize: fontSize,
                     heightMultiplier
                 });
@@ -143,7 +143,7 @@ export default function Grid({
             if (row < gridHeight - 1) {
                 builder.pushStyle({
                     color: Skia.Color('white'),
-                    fontFamilies: ['CourierPrime'],
+                    fontFamilies: [selectedFont],
                     fontSize: fontSize,
                     heightMultiplier
                 });
@@ -154,7 +154,6 @@ export default function Grid({
 
         const para = builder.build();
         para.layout(canvasSize.width);
-        console.log("FINAL paragraph: ", (Date.now() - s) / 1000)
         return para;
     })();
 
@@ -180,7 +179,7 @@ export default function Grid({
 
 
 
-    if (!customFontMgr || !paragraph) {
+    if (!fontMgr || !paragraph) {
         return null;
     }
 
@@ -199,6 +198,7 @@ export default function Grid({
 };
 
 
+
 const styles = StyleSheet.create({
     gridContainer: {
         backgroundColor: '#000',
@@ -209,10 +209,6 @@ const styles = StyleSheet.create({
         flex: 1,
     },
     canvas: {
-        backgroundColor: '#000',
-    },
-    loading: {
-        flex: 1,
         backgroundColor: '#000',
     }
 });
