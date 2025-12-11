@@ -1,0 +1,24 @@
+# Example app
+example/
+
+# Source files (only publish built lib/)
+src/
+
+# Development files
+tsconfig.json
+rollup.config.js
+*.tsbuildinfo
+
+# Git
+.git
+.gitignore
+
+# Documentation (optional - remove if you want to include these)
+CONTRIBUTING.md
+
+# Node modules
+node_modules/
+
+# Build artifacts
+*.log
+npm-debug.log*
