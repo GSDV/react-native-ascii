@@ -1,0 +1,30 @@
+{
+    "name": "react-native-ascii",
+    "version": "1.0.0",
+    "description": "Bring ASCII to React Native!",
+    "author": "Gabriele Scotto di Vettimo <sdvgab@gmail.com>",
+    "license": "MIT",
+    "main": "lib/index.js",
+    "module": "lib/index.esm.js",
+    "types": "lib/index.d.ts",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GSDV/react-native-ascii.git"
+    },
+    "homepage": "https://github.com/GSDV/react-native-ascii#README",
+    "bugs": "https://github.com/GSDV/react-native-ascii/issues",
+    "files": ["lib"],
+    "scripts": {
+        "build": "rollup -c",
+        "clean": "rm -rf lib",
+        "prepublishOnly": "npm run clean && npm run build"
+    },
+    "peerDependencies": {
+        "@shopify/react-native-skia": "^2.4.7",
+        "react": "*",
+        "react-native": "*"
+    },
+    "devDependencies": {
+        "@types/react": "^19.2.7"
+    }
+}
