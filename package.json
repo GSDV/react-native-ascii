@@ -1,35 +1,10 @@
 {
-    "name": "react-native-ascii",
+    "name": "react-native-ascii-monorepo",
     "version": "1.0.0",
-    "description": "Bring ASCII to React Native!",
-    "main": "lib/index.js",
-    "files": [
-        "lib"
-    ],
-    "peerDependencies": {
-        "@shopify/react-native-skia": "^2.4.7",
-        "react": "*",
-        "react-native": "*"
-    },
-    "scripts": {
-        "build": "rollup -c",
-        "clean": "rm -rf lib",
-        "prepublishOnly": "npm run clean && npm run build"
-    },
+    "private": true,
     "author": "Gabriele Scotto di Vettimo <sdvgab@gmail.com>",
     "license": "MIT",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/GSDV/react-native-ascii.git"
-    },
-    "homepage": "https://github.com/GSDV/react-native-ascii#README",
-    "bugs": "https://github.com/GSDV/react-native-ascii/issues",
-    "dependencies": {
-        "@shopify/react-native-skia": "^2.4.7",
-        "react": "^19.2.1",
-        "react-native": "^0.83.0"
-    },
-    "devDependencies": {
-        "@types/react": "^19.2.7"
-    }
+    "workspaces": [
+        "packages/*"
+    ]
 }
