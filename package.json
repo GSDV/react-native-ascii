@@ -5,6 +5,7 @@
     "author": "Gabriele Scotto di Vettimo <sdvgab@gmail.com>",
     "license": "MIT",
     "workspaces": [
-        "packages/*"
+        "packages/*",
+        "example"
     ]
 }
