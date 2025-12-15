@@ -1,5 +1,5 @@
 import typescript from '@rollup/plugin-typescript';
-import copy from '@rollup/plugin-copy';
+import copy from 'rollup-plugin-copy';
 
 import packageJson from './package.json' assert { type: 'json' };
 
@@ -31,10 +31,11 @@ export default [
             copy({
                 targets: [
                     { 
-                        src: 'src/assets/fonts/*.ttf', 
-                        dest: 'lib' 
+                        src: 'src/assets/fonts/*.ttf',
+                        dest: 'lib'
                     }
-                ]
+                ],
+                flatten: true
             })
         ],
         external: [

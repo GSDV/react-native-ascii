@@ -25,7 +25,8 @@
     "peerDependencies": {
         "@shopify/react-native-skia": "^2.4.7",
         "react": "*",
-        "react-native": "*"
+        "react-native": "*",
+        "react-native-reanimated": "*"
     },
     "devDependencies": {
         "@rollup/plugin-typescript": "^12.3.0",
@@ -35,6 +36,7 @@
         "react": "^19.2.3",
         "react-native": "^0.83.0",
         "rollup": "^4.53.3",
+        "rollup-plugin-copy": "^3.5.0",
         "rollup-plugin-dts": "^6.3.0",
         "tslib": "^2.8.1",
         "typescript": "^5.9.3"
