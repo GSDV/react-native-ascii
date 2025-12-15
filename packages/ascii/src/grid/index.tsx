@@ -25,7 +25,7 @@ export interface GridProps {
     selectedFont?: string;
 }
 
-export default function Grid({
+export function Grid({
     entityManager,
     frameRate,
     width: gridWeight,
