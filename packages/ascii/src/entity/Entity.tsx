@@ -1,4 +1,4 @@
-import { GameContext } from '@/src/context/';
+import { GameContext } from '@/src/context';
 
 import { Frame } from '@/src/frames';
 
