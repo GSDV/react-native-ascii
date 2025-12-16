@@ -16,5 +16,9 @@
         "example:android": "yarn workspace example android",
         "example:ios": "yarn workspace example ios",
         "example:start": "yarn workspace example expo start"
+    },
+    "resolutions": {
+        "react": "19.1.0",
+        "react-native": "0.81.0"
     }
 }
