@@ -1,6 +1,6 @@
 export const DEFAULT_FONTS = {
-    CourierPrime: require('./CourierPrime-Regular.ttf'),
-    DejaVuSansMono: require('./DejaVuSansMono.ttf')
+    CourierPrime: [require('./CourierPrime-Regular.ttf')],
+    DejaVuSansMono: [require('./DejaVuSansMono.ttf')]
 };
 
 
