@@ -25,14 +25,14 @@
     "peerDependencies": {
         "@shopify/react-native-skia": "^2.4.7",
         "react": "^19.0.0",
-        "react-native": ">=0.81.0",
+        "react-native": ">=0.81.1",
         "react-native-reanimated": "^4.0.0"
     },
     "devDependencies": {
         "@rollup/plugin-typescript": "^12.3.0",
         "@shopify/react-native-skia": "^2.4.7",
         "react": "^19.0.0",
-        "react-native": ">=0.81.0",
+        "react-native": ">=0.81.1",
         "react-native-reanimated": "^4.0.0",
         "rollup": "^4.53.3",
         "rollup-plugin-copy": "^3.5.0",

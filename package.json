@@ -15,10 +15,15 @@
         "example:prebuild:clean": "yarn workspace example expo prebuild --clean",
         "example:android": "yarn workspace example android",
         "example:ios": "yarn workspace example ios",
-        "example:start": "yarn workspace example expo start"
+        "example:start": "yarn workspace example expo start --dev-client"
     },
     "resolutions": {
         "react": "19.1.0",
-        "react-native": "0.81.0"
+        "react-native": "0.81.1",
+        "react-native-reanimated": "~4.1.1"
+    },
+    "devDependencies": {
+        "patch-package": "^8.0.1",
+        "postinstall-postinstall": "^2.1.0"
     }
 }
