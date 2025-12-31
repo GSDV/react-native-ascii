@@ -1,6 +1,6 @@
 {
     "name": "react-native-ascii",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Bring ASCII to React Native!",
     "author": "Gabriele Scotto di Vettimo <sdvgab@gmail.com>",
     "license": "MIT",
@@ -20,7 +20,7 @@
     "scripts": {
         "build": "rollup -c",
         "clean": "rm -rf lib",
-        "prepublishOnly": "npm run clean && npm run build"
+        "publish": "npm run clean && npm run build  && npm publish --registry https://registry.npmjs.org"
     },
     "peerDependencies": {
         "@shopify/react-native-skia": "^2.4.7",

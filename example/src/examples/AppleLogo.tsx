@@ -49,7 +49,7 @@ export default function AppleLogo() {
         const startTimeout = setTimeout(() => {
             entityManager.addEntity(apple);
             animateSpring();
-        }, 5000);
+        }, 3000);
 
         return () => {
             clearTimeout(startTimeout);
