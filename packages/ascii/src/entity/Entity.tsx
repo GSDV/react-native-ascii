@@ -46,11 +46,11 @@ export class Entity {
     }
 
     width() {
-        return this.frame[0].length;
+        return this.frame.pixels[0].length;
     }
 
     height() {
-        return this.frame.length;
+        return this.frame.pixels.length;
     }
 }
 

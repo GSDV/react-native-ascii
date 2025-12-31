@@ -113,13 +113,15 @@ export function Grid({
 
 
     const buildGrid = useCallback((): Frame => {
-        const grid: Frame = Array.from({ length: gridRows }, () =>
-            Array.from({ length: gridColumns }, () => ({ 
-                char: ' ', 
-                fgC: 'white', 
-                bgC: 'transparent' 
-            }))
-        );
+        const grid: Frame = {
+            pixels: Array.from({ length: gridRows }, () => (
+                Array.from({ length: gridColumns }, () => ({ 
+                    char: ' ',
+                    fgC: 'white',
+                    bgC: 'transparent'
+                }))
+            ))
+        };
 
         entityManagerRef.current?.entities.forEach(entity => {
             if (!entity.active) return;
@@ -134,9 +136,9 @@ export function Grid({
                     const gridX = x + dx;
 
                     if (gridY >= 0 && gridY < gridRows && gridX >= 0 && gridX < gridColumns) {
-                        const pixel = frame[dy]?.[dx];
+                        const pixel = frame.pixels[dy]?.[dx];
                         if (pixel && pixel.char !== ' ') {
-                            grid[gridY][gridX] = pixel;
+                            grid.pixels[gridY][gridX] = pixel;
                         }
                     }
                 }
@@ -170,13 +172,12 @@ export function Grid({
         };
 
         for (let row = 0; row < gridRows; row++) {
-            let currentFgColor = grid[row][0]?.fgC || 'white';
-            let currentBgColor = grid[row][0]?.bgC || 'transparent';
-            if (!currentBgColor && currentBgColor !== 'transparent') console.log(currentBgColor);
+            let currentFgColor = grid.pixels[row][0]?.fgC || 'white';
+            let currentBgColor = grid.pixels[row][0]?.bgC || 'transparent';
             let textBuffer = '';
 
             for (let col = 0; col < gridColumns; col++) {
-                const cell = grid[row][col];
+                const cell = grid.pixels[row][col];
 
                 if ((cell.fgC !== currentFgColor || cell.bgC !== currentBgColor) && textBuffer.length > 0) {
                     addStyledText({
