@@ -1,0 +1,4458 @@
+{
+  "name": "apple2",
+  "width": 35,
+  "height": 25,
+  "frames": [
+    {
+      "cells": [
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": "▟",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "▛",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": "▟",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "▌",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "▛",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": "▄",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "▄",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "▙",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "▄",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "▄",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "▄",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "▄",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "▄",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "▟",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "▄",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "▄",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": "▟",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": "▙",
+            "fgC": "#79c314",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": "▟",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "▙",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": "▟",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "▛",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "▀",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": "▀",
+            "fgC": "#ffa500",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "▛",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": "▐",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": "▌",
+            "fgC": "#ff5900",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": "▐",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "▌",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#e81416",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": "▜",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "▙",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": "▜",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "▙",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "▄",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": "▄",
+            "fgC": "#4b369d",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": "▀",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "▛",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": "▀",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "█",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": "▀",
+            "fgC": "#487de7",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ],
+        [
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          },
+          {
+            "char": " ",
+            "fgC": "#ffffff",
+            "bgC": ""
+          }
+        ]
+      ]
+    }
+  ],
+  "charPalette": [
+    "█",
+    "▛",
+    "▟",
+    "▜",
+    "▙",
+    "▄",
+    "▀",
+    "▌",
+    "▐"
+  ],
+  "fgColorPalette": [
+    "#e81416",
+    "#ffa500",
+    "#faeb36",
+    "#79c314",
+    "#487de7",
+    "#4b369d",
+    "#4b369d",
+    "#ff5900"
+  ],
+  "bgColorPalette": []
+}
