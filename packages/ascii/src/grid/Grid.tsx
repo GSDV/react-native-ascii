@@ -47,7 +47,8 @@ export interface GridProps {
     width: number;   // grid columns
     height: number;  // grid rows
 
-    style?: StyleProp<ViewStyle>;
+    containerStyle?: StyleProp<ViewStyle>;
+    canvasStyle?: StyleProp<ViewStyle>;
 
     fonts?: FontMap;
     selectedFont?: string;
@@ -58,7 +59,8 @@ export function Grid({
     frameRate,
     width: gridColumns,
     height: gridRows,
-    style,
+    containerStyle,
+    canvasStyle,
     fonts,
     selectedFont = DEFAULT_FONT
 }: GridProps) {
@@ -232,14 +234,17 @@ export function Grid({
     if (!fontMgr) return null;
 
     return (
-        <View style={style} onLayout={handleLayout}>
+        <View style={containerStyle} onLayout={handleLayout}>
             {dimensions &&
                 <Canvas
-                    style={{ 
-                        width: dimensions.canvasWidth,
-                        height: dimensions.canvasHeight,
-                        backgroundColor: '#333' 
-                    }}
+                    style={[
+                        { 
+                            width: dimensions.canvasWidth,
+                            height: dimensions.canvasHeight,
+                            backgroundColor: '#333' 
+                        },
+                        canvasStyle
+                    ]}
                 >
                     {paragraph && dimensions && (
                         <Paragraph
