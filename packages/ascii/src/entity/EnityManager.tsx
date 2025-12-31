@@ -1,6 +1,4 @@
-import { GameContext } from '@/src/context';
-
-import { Entity } from '@/src/entity';
+import { GameContext, Entity } from '@/src';
 
 
 
