@@ -1,6 +1,6 @@
 {
     "name": "react-native-ascii",
-    "version": "1.0.1",
+    "version": "1.0.3",
     "description": "Bring ASCII to React Native!",
     "author": "Gabriele Scotto di Vettimo <sdvgab@gmail.com>",
     "license": "MIT",
@@ -13,6 +13,13 @@
     },
     "homepage": "https://github.com/GSDV/react-native-ascii#README",
     "bugs": "https://github.com/GSDV/react-native-ascii/issues",
+    "keywords": [
+        "react-native",
+        "ascii-art",
+        "ascii",
+        "ansii",
+        "animations"
+    ],
     "files": [
         "lib",
         "src"
