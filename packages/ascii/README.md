@@ -2,8 +2,26 @@
 
 A React Native library for rendering ASCII/ANSI animations using an entity-component system. Built on React Native Skia and Reanimated.
 
+```text
+  _____                 _     _   _       _   _                       _____  _____ _____ _____ 
+ |  __ \               | |   | \ | |     | | (_)               /\    / ____|/ ____|_   _|_   _|
+ | |__) |___  __ _  ___| |_  |  \| | __ _| |_ ___   _____     /  \  | (___ | |      | |   | |  
+ |  _  // _ \/ _` |/ __| __| | . ` |/ _` | __| \ \ / / _ \   / /\ \  \___ \| |      | |   | |  
+ | | \ \  __/ (_| | (__| |_  | |\  | (_| | |_| |\ V /  __/  / ____ \ ____) | |____ _| |_ _| |_ 
+ |_|  \_\___|\__,_|\___|\__| |_| \_|\__,_|\__|_| \_/ \___| /_/    \_\_____/ \_____|_____|_____|
+```
+
+<p>
+  <img src="assets/demo-apple.gif" height="400" />
+  <img src="assets/demo-game.gif" height="400" />
+</p>
+
+
+
 [![npm version](https://badge.fury.io/js/react-native-ascii.svg)](https://badge.fury.io/js/react-native-ascii)
 [![license](https://img.shields.io/npm/l/react-native-ascii.svg)](https://github.com/GSDV/solomo/blob/main/LICENSE)
+
+
 
 
 ## Installation
