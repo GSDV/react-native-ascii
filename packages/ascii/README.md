@@ -12,8 +12,8 @@ A React Native library for rendering ASCII/ANSI animations using an entity-compo
 ```
 
 <p>
-  <img src="assets/demo-apple.gif" height="400" />
-  <img src="assets/demo-game.gif" height="400" />
+  <img src="https://raw.githubusercontent.com/GSDV/react-native-ascii/main/packages/ascii/assets/demo-apple.gif" height="400" />
+  <img src="https://raw.githubusercontent.com/GSDV/react-native-ascii/main/packages/ascii/assets/demo-game.gif" height="400" />
 </p>
 
 
